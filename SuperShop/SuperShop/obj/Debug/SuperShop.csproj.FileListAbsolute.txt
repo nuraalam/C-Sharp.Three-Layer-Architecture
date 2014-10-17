@@ -21,3 +21,13 @@ C:\Users\Hafiz\Desktop\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAsse
 C:\Users\Hafiz\Desktop\MultyShop\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
 C:\Users\Hafiz\Desktop\MultyShop\SuperShop\SuperShop\obj\Debug\SuperShop.exe
 C:\Users\Hafiz\Desktop\MultyShop\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.ItemUI.resources
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.MainUI.resources
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.ShopUI.resources
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+C:\Users\PC21\Desktop\Three Layer Architecture\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache

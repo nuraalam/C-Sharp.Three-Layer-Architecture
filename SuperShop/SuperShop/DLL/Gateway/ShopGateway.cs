@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -16,8 +17,9 @@ namespace SuperShop.DLL.Gateway
 
         private static void CallForConnection()
         {
-            string conn = @"server=Hafiz;database=SuperShop;integrated security=true";
-            connection = new SqlConnection();
+            string conn = ConfigurationManager.ConnectionStrings["SuperShop"].ConnectionString;
+           
+            connection = new SqlConnection(conn);
             connection.ConnectionString = conn;
 
         }
@@ -47,8 +49,10 @@ namespace SuperShop.DLL.Gateway
         {
             CallForConnection();
             connection.Open();
-            query = String.Format("INSERT INTO Table_Shop VALUES('{0}','{1}')", aShop.Name, aShop.Address);
+            query = "INSERT INTO Table_Shop (Name,Address) Values(@0,@1)";
             command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@0", aShop.Name);
+            command.Parameters.AddWithValue("@1", aShop.Address);
             command.ExecuteNonQuery();
             connection.Close();
         }

@@ -60,7 +60,7 @@
             // 
             this.shopDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.shopDataGridView.Location = new System.Drawing.Point(40, 158);
-            this.shopDataGridView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.shopDataGridView.Margin = new System.Windows.Forms.Padding(2);
             this.shopDataGridView.Name = "shopDataGridView";
             this.shopDataGridView.Size = new System.Drawing.Size(578, 269);
             this.shopDataGridView.TabIndex = 2;

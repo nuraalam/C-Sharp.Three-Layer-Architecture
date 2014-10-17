@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using SuperShop.DLL.DAO;
 using SuperShop.DLL.DAO.View;
@@ -14,8 +15,8 @@ namespace SuperShop.DLL.Gateway
 
         private static void CallForConnection()
         {
-            string conn = @"server=Hafiz;database=SuperShop;integrated security=true";
-            connection = new SqlConnection();
+            string conn = ConfigurationManager.ConnectionStrings["SuperShop"].ConnectionString;
+            connection = new SqlConnection(conn);
             connection.ConnectionString = conn;
 
         }
@@ -23,12 +24,13 @@ namespace SuperShop.DLL.Gateway
         public void UpgreadeQuantity(Item anItem)
         {
            int value = anItem.Quantity;
-            string id = anItem.Id;
-            int shopID = anItem.ShopID;
+           
             CallForConnection();
             connection.Open();
-            query = "UPDATE Table_Item SET Quantity=Quantity+"+value+" WHERE ID='"+id+"'AND ShopID='"+shopID+"'";
+            query = "UPDATE Table_Item SET Quantity=Quantity+"+value+" WHERE ID=@1 AND ShopID= @3";
             command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@1", anItem.Id);
+            command.Parameters.AddWithValue("@3", anItem.ShopID);
             command.ExecuteNonQuery();
             connection.Close();
         }
@@ -37,8 +39,11 @@ namespace SuperShop.DLL.Gateway
         {
             CallForConnection();
             connection.Open();
-            query = String.Format("INSERT INTO Table_Item VALUES('{0}','{1}',{2})", anItem.Id,anItem.Quantity,anItem.ShopID);
+            query = "INSERT INTO Table_Item (Id,Quantity,ShopID) Values(@0,@1,@2)";
             command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@0", anItem.Id);
+            command.Parameters.AddWithValue("@1", anItem.Quantity);
+            command.Parameters.AddWithValue("@2", anItem.ShopID);
             command.ExecuteNonQuery();
             connection.Close();
         }
