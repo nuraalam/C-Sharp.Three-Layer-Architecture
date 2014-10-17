@@ -1,0 +1,21 @@
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.pdb
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csprojResolveAssemblyReference.cache
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.DepartmentUI.resources
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.Properties.Resources.resources
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csproj.GenerateResource.Cache
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+C:\Users\PC21\Desktop\datbase + oop\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+C:\Users\PC21\Desktop\datbase + oop\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+C:\Users\PC21\Desktop\datbase + oop\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.pdb
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csprojResolveAssemblyReference.cache
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.DepartmentUI.resources
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+G:\SADDAM HOSSAIN RANA\10-10-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\bin\Debug\Department App.exe.config
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department App.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department_App.DepartmentUI.resources
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department_App.Properties.Resources.resources
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department App.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\bin\Debug\Department App.exe
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\bin\Debug\Department App.pdb
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department App.exe
+C:\Users\PC21\Desktop\RverseApp\Department App\Department App\obj\Debug\Department App.pdb

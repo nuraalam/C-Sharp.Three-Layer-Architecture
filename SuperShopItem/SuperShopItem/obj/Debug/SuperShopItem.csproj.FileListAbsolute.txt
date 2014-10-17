@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\bin\Debug\SuperShopItem.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\obj\Debug\SuperShopItem.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\obj\Debug\SuperShopItem.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\obj\Debug\SuperShopItem.ItemUI.resources
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\bin\Debug\SuperShopItem.exe
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\bin\Debug\SuperShopItem.pdb
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\obj\Debug\SuperShopItem.exe
+C:\Users\Hafiz\Desktop\RverseApp\SuperShopItem\SuperShopItem\obj\Debug\SuperShopItem.pdb
